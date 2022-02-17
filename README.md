@@ -1,4 +1,6 @@
 # m-agent
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneelanjan00%2Fm-agent-1.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneelanjan00%2Fm-agent-1?ref=badge_shield)
+
 Machine Agent a.k.a. m-agent is a lightweight, platform-generic daemon agent that can remotely inject faults into machine scoped resources, as part of the LitmusChaos Experiments.
 
 # Requirements
@@ -54,3 +56,7 @@ $ curl -fsSL -o remove_m-agent.sh https://raw.githubusercontent.com/litmuschaos/
 $ chmod 700 remove_m-agent.sh
 $ ./remove_m-agent.sh
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneelanjan00%2Fm-agent-1.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneelanjan00%2Fm-agent-1?ref=badge_large)
